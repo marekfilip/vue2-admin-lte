@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://github.com/devjin0617/vue2-admin-lte/blob/master/vue2-admin-lte-logo.png?raw=true">
+<img src="https://github.com/marekfilip/vue2-admin-lte/blob/master/vue2-admin-lte-logo.png?raw=true">
 <br>
 <img src="https://img.shields.io/badge/AdminLTE-2.3.11-blue.svg"> <img src="https://img.shields.io/badge/jquery-3.1.1-lightgrey.svg"> <img src="https://img.shields.io/badge/bootstrap-3.3.7-blue.svg"> <img src="https://img.shields.io/badge/vue-2.2.1-brightgreen.svg"> <img src="https://img.shields.io/badge/vuex-2.2.1-brightgreen.svg"> <img src="https://img.shields.io/badge/vue--router-2.3.0-green.svg">
 
@@ -16,7 +16,7 @@
 
 > AdminLTE of Admin control panel template Based on Vuejs 2.x Front-end Framework.
 
-![](https://github.com/devjin0617/vue2-admin-lte/blob/master/capture.png?raw=true)
+![](https://github.com/marekfilip/vue2-admin-lte/blob/master/capture.png?raw=true)
 
 ## Documentation
 
@@ -183,7 +183,7 @@ The following is a set of guidelines for contributing to `Vue2 AdminLTE`.
 
 ### Submitting Issues
 
-You can create an issue [here](https://github.com/devjin0617/vue2-admin-lte/issues).
+You can create an issue [here](https://github.com/marekfilip/vue2-admin-lte/issues).
 
 If you can, please include:
 - The version, name of Browser you are using
